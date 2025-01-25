@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# GCMD-Mixer
-=======
 # GCMD-Mixer
 
 ## Run experiments
@@ -19,4 +16,3 @@ The experiment scripts are in the `config` folder.
 	conda activate gcmd
 	run.bat
 	```
->>>>>>> b087cf1 (first commit)
